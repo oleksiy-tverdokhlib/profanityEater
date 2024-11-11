@@ -2,7 +2,7 @@
 
 > a server built with Flask + Python
 
-###Clone server
+## Clone server
 
 First of all you need to create folder for server localy
 open code redactor, create terminal and write
@@ -30,7 +30,7 @@ Running on http://127.0.0.1:5000
 
 > a chrome extension tools built with Vite + React, and Manifest v3
 
-###Clone app
+## Clone app
 
 You need to create folder for app localy
 open code redactor, create terminal and write
