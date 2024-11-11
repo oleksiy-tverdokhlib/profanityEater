@@ -2,6 +2,13 @@
 
 > a server built with Flask + Python
 
+first of all you need to create folder for server localy
+open code redactor, create terminal and write
+
+```shell
+$ git clone https://github.com/
+```
+
 ## Installing server
 
 Run `npm install` to install the dependencies.
