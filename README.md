@@ -6,7 +6,7 @@ first of all you need to create folder for server localy
 open code redactor, create terminal and write
 
 ```shell
-$ git clone https://github.com/
+$ [git clone https://github.com/](https://github.com/oleksiy-tverdokhlib/profanityEater/tree/master/serverFlask)
 ```
 
 ## Installing server
