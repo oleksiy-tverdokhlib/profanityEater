@@ -13,7 +13,7 @@
 run the command
 
 ```shell
-$ cd my-crx-app
+$ cd app_extention
 
 $ npm run dev
 ```
